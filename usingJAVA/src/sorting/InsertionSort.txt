@@ -1,0 +1,10 @@
+Try to take i  values as  one  1 to n
+
+ instead of  0 to n-1
+ 
+ to avoid the arrayindexoutofbource exception
+ 
+ 
+ i=1 to n
+ 
+ and temp = i-1
