@@ -37,6 +37,7 @@ public class BubbleSortRecursive
         {
         	System.out.println(a[p]);
         }
+        sc.close();
 	}
 
 }
