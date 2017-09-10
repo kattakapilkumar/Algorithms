@@ -1,0 +1,7 @@
+we can create git ingore file to 
+
+ingore some file by setting path
+
+like 
+
+folder/bin/
