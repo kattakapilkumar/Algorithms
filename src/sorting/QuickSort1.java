@@ -52,7 +52,7 @@ public class QuickSort1
 		}		
 		int j = partition(a,start,end);
 		
-		quicksort(a,start,end);
+		//quicksort(a,start,end);
 		
 				
 	}
